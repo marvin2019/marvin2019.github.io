@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as r,ae as o}from"./chunks/framework.CliRSA9F.js";const p=JSON.parse('{"title":"欢迎来到我的博客 🎉","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"};function i(l,e,s,d,_,c){return r(),t("div",null,[...e[0]||(e[0]=[o("",4)])])}const m=a(n,[["render",i]]);export{p as __pageData,m as default};
